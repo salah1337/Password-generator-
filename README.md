@@ -1,4 +1,4 @@
-# Password-generator-
+# Password Generator-
 Simple Javascript Password Generator
-#live version
+# Live Version-
 passwordgeneratorjs.netlify.app
