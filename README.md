@@ -1,4 +1,4 @@
 # Password Generator-
 Simple Javascript Password Generator
 # Live Version-
-https://passwordgeneratorjs.netlify.app/
+https://salah1337.github.io/Password-generator-/
